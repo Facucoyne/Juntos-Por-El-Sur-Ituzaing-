@@ -417,3 +417,22 @@ color: #01018f;
 font-family: 'Times New Roman', Times, serif;
 font-size: 20px;
 }
+
+
+@media screen and (max-width:768px){
+
+  .about .conten1 img{
+      width: 85%;
+  
+  }
+  .texto{
+      margin-bottom: 35px;
+      text-align: center;
+      flex-direction: column;
+      
+  }
+
+  .texto h2{
+      text-align: center;
+  }
+}
