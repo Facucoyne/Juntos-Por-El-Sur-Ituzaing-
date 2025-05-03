@@ -8,7 +8,7 @@
 
 .logo img{
 width: 55px;
-  color: #ccf2f4;
+  color: #06979e;
   font-weight: bold;
 }
 nav {
@@ -16,7 +16,7 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #050828;
+    background-color: #060a31;
     z-index: 99;
   }
   
