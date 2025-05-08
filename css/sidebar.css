@@ -279,9 +279,21 @@ box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
   
 }
 
+.TextoPrincipal{
+  background-color: #111;
+
+}
+
+.TextoPrincipal p{
+  margin: 1px;
+  color: #fff;
+  font-size: 22px;
+  padding: 5px;
+}
+
 .about .conten1 img{
   margin: auto;
-  width: 600px;
+  width: 500px;
   
   border-radius: 10px 20px;
   -webkit-box-shadow: 4px 10px 38px 3px rgba(1, 21, 15, 0.59);
