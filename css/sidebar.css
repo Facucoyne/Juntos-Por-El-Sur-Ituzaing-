@@ -284,9 +284,9 @@ box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
   width: 600px;
   
   border-radius: 10px 20px;
-  -webkit-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
--moz-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 4px 10px 38px 3px rgba(1, 21, 15, 0.59);
+-moz-box-shadow: 4px 10px 38px 3px rgba(2, 39, 18, 0.75);
+box-shadow: 4px 10px 38px 3px rgba(1, 29, 2, 0.75);
 
 }
 
@@ -373,8 +373,8 @@ box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
 .image img{
   width: 113%;
   border-radius: 10px 20px;
-  -webkit-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
--moz-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 4px 10px 38px 3px rgba(3, 49, 6, 0.75);
+-moz-box-shadow: 4px 10px 38px 3px rgba(0, 135, 147, 0.75);
 box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
   
 }
