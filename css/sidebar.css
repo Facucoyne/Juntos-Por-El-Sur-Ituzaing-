@@ -160,6 +160,15 @@ nav {
     
 }
 
+.btn-wsp {
+  width: 9rem;
+  position: fixed;
+  bottom: 6%;
+  right: 0;
+  
+  }
+
+
 
 .container-banner{
     color: #fff;
